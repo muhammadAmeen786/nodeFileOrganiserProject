@@ -14,6 +14,5 @@ function help() {
 module.exports = {
     //key value
     help: help,
-    // haathi: help
-    // ghoda:abc
+  
 }
